@@ -1,6 +1,15 @@
-a = "7"
-b = int(a) + 99
+a = 9
+print(a)
+b = a
 print(b)
+print(type(9.8) == int)
+print(isinstance(9.8, float))
+print(isinstance(9.8, str))
+
+
+# a = "7"
+# b = int(a) + 99
+# print(b)
 
 
 # subjects = ["python", "music"]
