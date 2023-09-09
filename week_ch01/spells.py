@@ -6,4 +6,5 @@ students = [
     "Nox",
     "Lumos",
     ]
-print(students[-4])
+print(students[-6])
+print(students[0])
