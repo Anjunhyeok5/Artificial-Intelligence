@@ -1,9 +1,9 @@
-spells = [
-    "Riddikulus!",
-    "Wingardium Leviosa!",
-    "Avada Kedavra!",
-    "Expecto Patronum!",
-    "Nox!",
-    "Lumos!",
+students = [
+    "Liam",
+    "Yelim",
+    "THK",
+    "jun",
+    "Nox",
+    "Lumos",
     ]
-print(spells[3])
+print(students[-4])
