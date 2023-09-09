@@ -1,12 +1,17 @@
-subjects = ["python", "music"]
-print(subjects)
-subjects[1] = "stats"
-print(subjects)
+a = "7"
+b = int(a) + 99
+print(b)
 
-teacher = "PARK"
-print(teacher)
-teacher = "LEE"
-print(teacher)
+
+# subjects = ["python", "music"]
+# print(subjects)
+# subjects[1] = "stats"
+# print(subjects)
+#
+# teacher = "PARK"
+# print(teacher)
+# teacher = "LEE"
+# print(teacher)
 
 
 # age = int(input("나이는 : "))
