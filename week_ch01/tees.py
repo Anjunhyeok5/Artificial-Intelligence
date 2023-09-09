@@ -1,11 +1,21 @@
-age = int(input("나이는 : "))
-print(age >= 19)
+subjects = ["python", "music"]
+print(subjects)
+subjects[1] = "stats"
+print(subjects)
 
-if age >= 19:
-    print("pass")
-else:
-    print("unpass")
+teacher = "PARK"
+print(teacher)
+teacher = "LEE"
+print(teacher)
 
+
+# age = int(input("나이는 : "))
+# print(age >= 19)
+#
+# if age >= 19:
+#     print("pass")
+# else:
+#     print("unpass")
 
 
 # student_id = 1000
