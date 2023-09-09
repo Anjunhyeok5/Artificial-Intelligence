@@ -1,10 +1,17 @@
-a = 9
-print(a)
-b = a
-print(b)
-print(type(9.8) == int)
-print(isinstance(9.8, float))
-print(isinstance(9.8, str))
+ a = 1
+ b = a
+ print(a,b)
+ a = 2
+ print(a, b)
+
+
+# a = 9
+# print(a)
+# b = a
+# print(b)
+# print(type(9.8) == int)
+# print(isinstance(9.8, float))
+# print(isinstance(9.8, str))
 
 
 # a = "7"
