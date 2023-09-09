@@ -1,8 +1,15 @@
- a = 1
- b = a
- print(a,b)
- a = 2
- print(a, b)
+x = [1, 2, 3]
+y = x
+print(x, y)
+x[0] = -11
+print(x, y)
+
+
+# a = 1
+# b = a
+# print(a,b)
+# a = 2
+# print(a, b)
 
 
 # a = 9
