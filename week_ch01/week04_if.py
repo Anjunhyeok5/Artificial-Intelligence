@@ -4,6 +4,8 @@ army = """
 둘, 우리는 실전과 같은 훈련으로 지상전의 승리자가 된다.
 """
 
+high_school = "Incheon \"Science\" high school"
+print(high_school)
 print(army)
 
 
