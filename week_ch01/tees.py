@@ -1,8 +1,14 @@
-x = [1, 2, 3]
-y = x
-print(x, y)
-x[0] = -11
-print(x, y)
+human = {"eye" : [1.0], "bloodtype" : "A"}
+print(human["eye"])
+human["eye"][0] = 0.7
+print(human["eye"])
+
+
+# x = [1, 2, 3]
+# y = x
+# print(x, y)
+# x[0] = -11
+# print(x, y)
 
 
 # a = 1
